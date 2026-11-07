@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Red de Paradores</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="mapa"></div>
+
+  <header class="marca">
+    <span class="eyebrow">Red de Paradores de Turismo</span>
+    <h1>Encuentra tu parador</h1>
+    <p><span id="total">-</span> paradores en toda España</p>
+  </header>
+
+  <div class="zonas">
+    <button data-zona="peninsula" class="activa">Península</button>
+    <button data-zona="canarias">Canarias</button>
+  </div>
+
+  <aside id="panel">
+    <div id="buscador">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+      <input id="busqueda" type="search" placeholder="Buscar parador, provincia o comunidad" autocomplete="off">
+      <ul id="resultados" hidden></ul>
+    </div>
+    <div id="contenido">
+      <span class="eyebrow">Explora el mapa</span>
+      <h2 class="titulo">Selecciona un parador</h2>
+      <p class="texto">Pulsa sobre cualquier punto del mapa para descubrir el parador y los que se encuentran a menos de 150 km.</p>
+      <ul class="leyenda">
+        <li><span class="punto normal"></span>Parador</li>
+        <li><span class="punto seleccionado"></span>Seleccionado</li>
+        <li><span class="punto cercano"></span>A menos de 150 km</li>
+      </ul>
+    </div>
+  </aside>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>

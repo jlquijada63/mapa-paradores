@@ -1,0 +1,857 @@
+[
+ {
+  "id": 1,
+  "nombre": "Parador de Antequera",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "lat": 37.019,
+  "lon": -4.561,
+  "web": "https://paradores.es/es/parador-de-antequera"
+ },
+ {
+  "id": 2,
+  "nombre": "Parador de Arcos de la Frontera",
+  "provincia": "Cádiz",
+  "comunidad": "Andalucía",
+  "lat": 36.75,
+  "lon": -5.806,
+  "web": "https://paradores.es/es/parador-de-arcos-de-la-frontera"
+ },
+ {
+  "id": 3,
+  "nombre": "Parador de Ayamonte",
+  "provincia": "Huelva",
+  "comunidad": "Andalucía",
+  "lat": 37.216,
+  "lon": -7.404,
+  "web": "https://paradores.es/es/parador-de-ayamonte"
+ },
+ {
+  "id": 4,
+  "nombre": "Parador de Cádiz",
+  "provincia": "Cádiz",
+  "comunidad": "Andalucía",
+  "lat": 36.534,
+  "lon": -6.3,
+  "web": "https://paradores.es/es/parador-de-cadiz"
+ },
+ {
+  "id": 5,
+  "nombre": "Parador de Carmona",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "lat": 37.471,
+  "lon": -5.646,
+  "web": "https://paradores.es/es/parador-de-carmona"
+ },
+ {
+  "id": 6,
+  "nombre": "Parador de Cazorla",
+  "provincia": "Jaén",
+  "comunidad": "Andalucía",
+  "lat": 37.9,
+  "lon": -2.927,
+  "web": "https://paradores.es/es/parador-de-cazorla"
+ },
+ {
+  "id": 7,
+  "nombre": "Parador de Córdoba",
+  "provincia": "Córdoba",
+  "comunidad": "Andalucía",
+  "lat": 37.91,
+  "lon": -4.77,
+  "web": "https://paradores.es/es/parador-de-cordoba"
+ },
+ {
+  "id": 8,
+  "nombre": "Parador de Granada",
+  "provincia": "Granada",
+  "comunidad": "Andalucía",
+  "lat": 37.176,
+  "lon": -3.588,
+  "web": "https://paradores.es/es/parador-de-granada"
+ },
+ {
+  "id": 9,
+  "nombre": "Parador de Jaén",
+  "provincia": "Jaén",
+  "comunidad": "Andalucía",
+  "lat": 37.769,
+  "lon": -3.807,
+  "web": "https://paradores.es/es/parador-de-jaen"
+ },
+ {
+  "id": 10,
+  "nombre": "Parador de Málaga Gibralfaro",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "lat": 36.721,
+  "lon": -4.411,
+  "web": "https://paradores.es/es/parador-de-malaga-gibralfaro"
+ },
+ {
+  "id": 11,
+  "nombre": "Parador de Málaga Golf",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "lat": 36.663,
+  "lon": -4.457,
+  "web": "https://paradores.es/es/parador-de-malaga-golf"
+ },
+ {
+  "id": 12,
+  "nombre": "Parador de Mazagón",
+  "provincia": "Huelva",
+  "comunidad": "Andalucía",
+  "lat": 37.103,
+  "lon": -6.744,
+  "web": "https://paradores.es/es/parador-de-mazagon"
+ },
+ {
+  "id": 13,
+  "nombre": "Parador de Mojácar",
+  "provincia": "Almería",
+  "comunidad": "Andalucía",
+  "lat": 37.13,
+  "lon": -1.83,
+  "web": "https://paradores.es/es/parador-de-mojacar"
+ },
+ {
+  "id": 14,
+  "nombre": "Parador de Nerja",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "lat": 36.745,
+  "lon": -3.874,
+  "web": "https://paradores.es/es/parador-de-nerja"
+ },
+ {
+  "id": 15,
+  "nombre": "Parador de Ronda",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "lat": 36.741,
+  "lon": -5.166,
+  "web": "https://paradores.es/es/parador-de-ronda"
+ },
+ {
+  "id": 16,
+  "nombre": "Parador de Úbeda",
+  "provincia": "Jaén",
+  "comunidad": "Andalucía",
+  "lat": 38.009,
+  "lon": -3.37,
+  "web": "https://paradores.es/es/parador-de-ubeda"
+ },
+ {
+  "id": 17,
+  "nombre": "Parador de Alcañiz",
+  "provincia": "Teruel",
+  "comunidad": "Aragón",
+  "lat": 41.051,
+  "lon": -0.133,
+  "web": "https://paradores.es/es/parador-de-alcaniz"
+ },
+ {
+  "id": 18,
+  "nombre": "Parador de Bielsa",
+  "provincia": "Huesca",
+  "comunidad": "Aragón",
+  "lat": 42.64,
+  "lon": 0.155,
+  "web": "https://paradores.es/es/parador-de-bielsa"
+ },
+ {
+  "id": 19,
+  "nombre": "Parador de Sos del Rey Católico",
+  "provincia": "Zaragoza",
+  "comunidad": "Aragón",
+  "lat": 42.496,
+  "lon": -1.215,
+  "web": "https://paradores.es/es/parador-de-sos-del-rey-catolico"
+ },
+ {
+  "id": 20,
+  "nombre": "Parador de Teruel",
+  "provincia": "Teruel",
+  "comunidad": "Aragón",
+  "lat": 40.36,
+  "lon": -1.106,
+  "web": "https://paradores.es/es/parador-de-teruel"
+ },
+ {
+  "id": 21,
+  "nombre": "Parador de Cangas de Onís",
+  "provincia": "Asturias",
+  "comunidad": "Asturias",
+  "lat": 43.351,
+  "lon": -5.124,
+  "web": "https://paradores.es/es/parador-de-cangas-de-onis"
+ },
+ {
+  "id": 22,
+  "nombre": "Parador de Corias",
+  "provincia": "Asturias",
+  "comunidad": "Asturias",
+  "lat": 43.183,
+  "lon": -6.548,
+  "web": "https://paradores.es/es/parador-de-corias"
+ },
+ {
+  "id": 23,
+  "nombre": "Parador de Gijón",
+  "provincia": "Asturias",
+  "comunidad": "Asturias",
+  "lat": 43.537,
+  "lon": -5.666,
+  "web": "https://paradores.es/es/parador-de-gijon"
+ },
+ {
+  "id": 24,
+  "nombre": "Parador de Cañadas del Teide",
+  "provincia": "Santa Cruz de Tenerife",
+  "comunidad": "Canarias",
+  "lat": 28.226,
+  "lon": -16.627,
+  "web": "https://paradores.es/es/parador-de-las-canadas-del-teide"
+ },
+ {
+  "id": 25,
+  "nombre": "Parador de Cruz de Tejeda",
+  "provincia": "Las Palmas",
+  "comunidad": "Canarias",
+  "lat": 28.006,
+  "lon": -15.6,
+  "web": "https://paradores.es/es/parador-de-cruz-de-tejeda"
+ },
+ {
+  "id": 26,
+  "nombre": "Parador de El Hierro",
+  "provincia": "Santa Cruz de Tenerife",
+  "comunidad": "Canarias",
+  "lat": 27.742,
+  "lon": -17.931,
+  "web": "https://paradores.es/es/parador-de-el-hierro"
+ },
+ {
+  "id": 27,
+  "nombre": "Parador de La Gomera",
+  "provincia": "Santa Cruz de Tenerife",
+  "comunidad": "Canarias",
+  "lat": 28.088,
+  "lon": -17.111,
+  "web": "https://paradores.es/es/parador-de-la-gomera"
+ },
+ {
+  "id": 28,
+  "nombre": "Parador de La Palma",
+  "provincia": "Santa Cruz de Tenerife",
+  "comunidad": "Canarias",
+  "lat": 28.659,
+  "lon": -17.776,
+  "web": "https://paradores.es/es/parador-de-la-palma"
+ },
+ {
+  "id": 29,
+  "nombre": "Parador de Fuente Dé",
+  "provincia": "Cantabria",
+  "comunidad": "Cantabria",
+  "lat": 43.144,
+  "lon": -4.81,
+  "web": "https://paradores.es/es/parador-de-fuente-de"
+ },
+ {
+  "id": 30,
+  "nombre": "Parador de Limpias",
+  "provincia": "Cantabria",
+  "comunidad": "Cantabria",
+  "lat": 43.362,
+  "lon": -3.418,
+  "web": "https://paradores.es/es/parador-de-limpias"
+ },
+ {
+  "id": 31,
+  "nombre": "Parador de Santillana del Mar",
+  "provincia": "Cantabria",
+  "comunidad": "Cantabria",
+  "lat": 43.39,
+  "lon": -4.106,
+  "web": "https://paradores.es/es/parador-de-santillana-del-mar"
+ },
+ {
+  "id": 32,
+  "nombre": "Parador de Santillana Gil Blas",
+  "provincia": "Cantabria",
+  "comunidad": "Cantabria",
+  "lat": 43.391,
+  "lon": -4.107,
+  "web": "https://paradores.es/es/parador-de-santillana-gil-blas"
+ },
+ {
+  "id": 33,
+  "nombre": "Parador de Albacete",
+  "provincia": "Albacete",
+  "comunidad": "Castilla-La Mancha",
+  "lat": 39.017,
+  "lon": -1.854,
+  "web": "https://paradores.es/es/parador-de-albacete"
+ },
+ {
+  "id": 34,
+  "nombre": "Parador de Alarcón",
+  "provincia": "Cuenca",
+  "comunidad": "Castilla-La Mancha",
+  "lat": 39.546,
+  "lon": -2.083,
+  "web": "https://paradores.es/es/parador-de-alarcon"
+ },
+ {
+  "id": 35,
+  "nombre": "Parador de Almagro",
+  "provincia": "Ciudad Real",
+  "comunidad": "Castilla-La Mancha",
+  "lat": 38.889,
+  "lon": -3.71,
+  "web": "https://paradores.es/es/parador-de-almagro"
+ },
+ {
+  "id": 36,
+  "nombre": "Parador de Cuenca",
+  "provincia": "Cuenca",
+  "comunidad": "Castilla-La Mancha",
+  "lat": 40.077,
+  "lon": -2.127,
+  "web": "https://paradores.es/es/parador-de-cuenca"
+ },
+ {
+  "id": 37,
+  "nombre": "Parador de Manzanares",
+  "provincia": "Ciudad Real",
+  "comunidad": "Castilla-La Mancha",
+  "lat": 38.998,
+  "lon": -3.371,
+  "web": "https://paradores.es/es/parador-de-manzanares"
+ },
+ {
+  "id": 38,
+  "nombre": "Parador de Oropesa",
+  "provincia": "Toledo",
+  "comunidad": "Castilla-La Mancha",
+  "lat": 39.919,
+  "lon": -5.175,
+  "web": "https://paradores.es/es/parador-de-oropesa"
+ },
+ {
+  "id": 39,
+  "nombre": "Parador de Sigüenza",
+  "provincia": "Guadalajara",
+  "comunidad": "Castilla-La Mancha",
+  "lat": 41.068,
+  "lon": -2.64,
+  "web": "https://paradores.es/es/parador-de-siguenza"
+ },
+ {
+  "id": 40,
+  "nombre": "Parador de Toledo",
+  "provincia": "Toledo",
+  "comunidad": "Castilla-La Mancha",
+  "lat": 39.851,
+  "lon": -4.021,
+  "web": "https://paradores.es/es/parador-de-toledo"
+ },
+ {
+  "id": 41,
+  "nombre": "Parador de Ávila",
+  "provincia": "Ávila",
+  "comunidad": "Castilla y León",
+  "lat": 40.658,
+  "lon": -4.703,
+  "web": "https://paradores.es/es/parador-de-avila"
+ },
+ {
+  "id": 42,
+  "nombre": "Parador de Benavente",
+  "provincia": "Zamora",
+  "comunidad": "Castilla y León",
+  "lat": 42.003,
+  "lon": -5.677,
+  "web": "https://paradores.es/es/parador-de-benavente"
+ },
+ {
+  "id": 43,
+  "nombre": "Parador de Cervera de Pisuerga",
+  "provincia": "Palencia",
+  "comunidad": "Castilla y León",
+  "lat": 42.876,
+  "lon": -4.501,
+  "web": "https://paradores.es/es/parador-de-cervera-de-pisuerga"
+ },
+ {
+  "id": 44,
+  "nombre": "Parador de Ciudad Rodrigo",
+  "provincia": "Salamanca",
+  "comunidad": "Castilla y León",
+  "lat": 40.598,
+  "lon": -6.536,
+  "web": "https://paradores.es/es/parador-de-ciudad-rodrigo"
+ },
+ {
+  "id": 45,
+  "nombre": "Parador de Gredos",
+  "provincia": "Ávila",
+  "comunidad": "Castilla y León",
+  "lat": 40.346,
+  "lon": -5.1,
+  "web": "https://paradores.es/es/parador-de-gredos"
+ },
+ {
+  "id": 46,
+  "nombre": "Parador de La Granja",
+  "provincia": "Segovia",
+  "comunidad": "Castilla y León",
+  "lat": 40.898,
+  "lon": -4.005,
+  "web": "https://paradores.es/es/parador-de-la-granja"
+ },
+ {
+  "id": 47,
+  "nombre": "Parador de León",
+  "provincia": "León",
+  "comunidad": "Castilla y León",
+  "lat": 42.6,
+  "lon": -5.58,
+  "web": "https://paradores.es/es/parador-de-leon"
+ },
+ {
+  "id": 48,
+  "nombre": "Parador de Lerma",
+  "provincia": "Burgos",
+  "comunidad": "Castilla y León",
+  "lat": 42.026,
+  "lon": -3.757,
+  "web": "https://paradores.es/es/parador-de-lerma"
+ },
+ {
+  "id": 49,
+  "nombre": "Parador de Puebla de Sanabria",
+  "provincia": "Zamora",
+  "comunidad": "Castilla y León",
+  "lat": 42.054,
+  "lon": -6.635,
+  "web": "https://paradores.es/es/parador-de-puebla-de-sanabria"
+ },
+ {
+  "id": 50,
+  "nombre": "Parador de Salamanca",
+  "provincia": "Salamanca",
+  "comunidad": "Castilla y León",
+  "lat": 40.957,
+  "lon": -5.668,
+  "web": "https://paradores.es/es/parador-de-salamanca"
+ },
+ {
+  "id": 51,
+  "nombre": "Parador de Segovia",
+  "provincia": "Segovia",
+  "comunidad": "Castilla y León",
+  "lat": 40.953,
+  "lon": -4.107,
+  "web": "https://paradores.es/es/parador-de-segovia"
+ },
+ {
+  "id": 52,
+  "nombre": "Parador de Soria",
+  "provincia": "Soria",
+  "comunidad": "Castilla y León",
+  "lat": 41.766,
+  "lon": -2.461,
+  "web": "https://paradores.es/es/parador-de-soria"
+ },
+ {
+  "id": 53,
+  "nombre": "Parador de Tordesillas",
+  "provincia": "Valladolid",
+  "comunidad": "Castilla y León",
+  "lat": 41.497,
+  "lon": -5.001,
+  "web": "https://paradores.es/es/parador-de-tordesillas"
+ },
+ {
+  "id": 54,
+  "nombre": "Parador de Villafranca del Bierzo",
+  "provincia": "León",
+  "comunidad": "Castilla y León",
+  "lat": 42.607,
+  "lon": -6.81,
+  "web": "https://paradores.es/es/parador-de-villafranca-del-bierzo"
+ },
+ {
+  "id": 55,
+  "nombre": "Parador de Zamora",
+  "provincia": "Zamora",
+  "comunidad": "Castilla y León",
+  "lat": 41.503,
+  "lon": -5.749,
+  "web": "https://paradores.es/es/parador-de-zamora"
+ },
+ {
+  "id": 56,
+  "nombre": "Parador de Aiguablava",
+  "provincia": "Girona",
+  "comunidad": "Cataluña",
+  "lat": 41.932,
+  "lon": 3.218,
+  "web": "https://paradores.es/es/parador-de-aiguablava"
+ },
+ {
+  "id": 57,
+  "nombre": "Parador de Arties",
+  "provincia": "Lleida",
+  "comunidad": "Cataluña",
+  "lat": 42.7,
+  "lon": 0.872,
+  "web": "https://paradores.es/es/parador-de-arties"
+ },
+ {
+  "id": 58,
+  "nombre": "Parador de Cardona",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "lat": 41.917,
+  "lon": 1.676,
+  "web": "https://paradores.es/es/parador-de-cardona"
+ },
+ {
+  "id": 59,
+  "nombre": "Parador de La Seu d'Urgell",
+  "provincia": "Lleida",
+  "comunidad": "Cataluña",
+  "lat": 42.358,
+  "lon": 1.457,
+  "web": "https://paradores.es/es/parador-de-la-seu-durgell"
+ },
+ {
+  "id": 60,
+  "nombre": "Parador de Tortosa",
+  "provincia": "Tarragona",
+  "comunidad": "Cataluña",
+  "lat": 40.814,
+  "lon": 0.521,
+  "web": "https://paradores.es/es/parador-de-tortosa"
+ },
+ {
+  "id": 61,
+  "nombre": "Parador de Vic-Sau",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "lat": 41.979,
+  "lon": 2.381,
+  "web": "https://paradores.es/es/parador-de-vic-sau"
+ },
+ {
+  "id": 62,
+  "nombre": "Parador de Vielha",
+  "provincia": "Lleida",
+  "comunidad": "Cataluña",
+  "lat": 42.716,
+  "lon": 0.792,
+  "web": "https://paradores.es/es/parador-de-vielha"
+ },
+ {
+  "id": 63,
+  "nombre": "Parador de Cáceres",
+  "provincia": "Cáceres",
+  "comunidad": "Extremadura",
+  "lat": 39.474,
+  "lon": -6.371,
+  "web": "https://paradores.es/es/parador-de-caceres"
+ },
+ {
+  "id": 64,
+  "nombre": "Parador de Guadalupe",
+  "provincia": "Cáceres",
+  "comunidad": "Extremadura",
+  "lat": 39.452,
+  "lon": -5.327,
+  "web": "https://paradores.es/es/parador-de-guadalupe"
+ },
+ {
+  "id": 65,
+  "nombre": "Parador de Jarandilla de la Vera",
+  "provincia": "Cáceres",
+  "comunidad": "Extremadura",
+  "lat": 40.13,
+  "lon": -5.661,
+  "web": "https://paradores.es/es/parador-de-jarandilla-de-la-vera"
+ },
+ {
+  "id": 66,
+  "nombre": "Parador de Mérida",
+  "provincia": "Badajoz",
+  "comunidad": "Extremadura",
+  "lat": 38.917,
+  "lon": -6.343,
+  "web": "https://paradores.es/es/parador-de-merida"
+ },
+ {
+  "id": 67,
+  "nombre": "Parador de Plasencia",
+  "provincia": "Cáceres",
+  "comunidad": "Extremadura",
+  "lat": 40.03,
+  "lon": -6.09,
+  "web": "https://paradores.es/es/parador-de-plasencia"
+ },
+ {
+  "id": 68,
+  "nombre": "Parador de Trujillo",
+  "provincia": "Cáceres",
+  "comunidad": "Extremadura",
+  "lat": 39.459,
+  "lon": -5.882,
+  "web": "https://paradores.es/es/parador-de-trujillo"
+ },
+ {
+  "id": 69,
+  "nombre": "Parador de Zafra",
+  "provincia": "Badajoz",
+  "comunidad": "Extremadura",
+  "lat": 38.425,
+  "lon": -6.417,
+  "web": "https://paradores.es/es/parador-de-zafra"
+ },
+ {
+  "id": 70,
+  "nombre": "Parador de Baiona",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "lat": 42.122,
+  "lon": -8.848,
+  "web": "https://paradores.es/es/parador-de-baiona"
+ },
+ {
+  "id": 71,
+  "nombre": "Parador de Cambados",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "lat": 42.512,
+  "lon": -8.814,
+  "web": "https://paradores.es/es/parador-de-cambados"
+ },
+ {
+  "id": 72,
+  "nombre": "Parador de Costa da Morte",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "lat": 43.105,
+  "lon": -9.212,
+  "web": "https://paradores.es/es/parador-costa-da-morte"
+ },
+ {
+  "id": 73,
+  "nombre": "Parador de Ferrol",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "lat": 43.481,
+  "lon": -8.247,
+  "web": "https://paradores.es/es/parador-de-ferrol"
+ },
+ {
+  "id": 74,
+  "nombre": "Parador de Monforte de Lemos",
+  "provincia": "Lugo",
+  "comunidad": "Galicia",
+  "lat": 42.521,
+  "lon": -7.514,
+  "web": "https://paradores.es/es/parador-de-monforte-de-lemos"
+ },
+ {
+  "id": 75,
+  "nombre": "Parador de Pontevedra",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "lat": 42.432,
+  "lon": -8.645,
+  "web": "https://paradores.es/es/parador-de-pontevedra"
+ },
+ {
+  "id": 76,
+  "nombre": "Parador de Ribadeo",
+  "provincia": "Lugo",
+  "comunidad": "Galicia",
+  "lat": 43.536,
+  "lon": -7.042,
+  "web": "https://paradores.es/es/parador-de-ribadeo"
+ },
+ {
+  "id": 77,
+  "nombre": "Parador de Santiago de Compostela",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "lat": 42.881,
+  "lon": -8.546,
+  "web": "https://paradores.es/es/parador-de-santiago-de-compostela"
+ },
+ {
+  "id": 78,
+  "nombre": "Parador de Santo Estevo",
+  "provincia": "Ourense",
+  "comunidad": "Galicia",
+  "lat": 42.418,
+  "lon": -7.687,
+  "web": "https://paradores.es/es/parador-de-santo-estevo"
+ },
+ {
+  "id": 79,
+  "nombre": "Parador de Tui",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "lat": 42.044,
+  "lon": -8.643,
+  "web": "https://paradores.es/es/parador-de-tui"
+ },
+ {
+  "id": 80,
+  "nombre": "Parador de Verín",
+  "provincia": "Ourense",
+  "comunidad": "Galicia",
+  "lat": 41.944,
+  "lon": -7.452,
+  "web": "https://paradores.es/es/parador-de-verin"
+ },
+ {
+  "id": 81,
+  "nombre": "Parador de Vilalba",
+  "provincia": "Lugo",
+  "comunidad": "Galicia",
+  "lat": 43.298,
+  "lon": -7.68,
+  "web": "https://paradores.es/es/parador-de-vilalba"
+ },
+ {
+  "id": 82,
+  "nombre": "Parador de Calahorra",
+  "provincia": "La Rioja",
+  "comunidad": "La Rioja",
+  "lat": 42.305,
+  "lon": -1.965,
+  "web": "https://paradores.es/es/parador-de-calahorra"
+ },
+ {
+  "id": 83,
+  "nombre": "Parador de Santo Domingo de la Calzada",
+  "provincia": "La Rioja",
+  "comunidad": "La Rioja",
+  "lat": 42.441,
+  "lon": -2.953,
+  "web": "https://paradores.es/es/parador-de-santo-domingo-de-la-calzada"
+ },
+ {
+  "id": 84,
+  "nombre": "Parador de Santo Domingo Bernardo de Fresneda",
+  "provincia": "La Rioja",
+  "comunidad": "La Rioja",
+  "lat": 42.44,
+  "lon": -2.951,
+  "web": "https://paradores.es/es/parador-de-santo-domingo-bernardo-de-fresneda"
+ },
+ {
+  "id": 85,
+  "nombre": "Parador de Alcalá de Henares",
+  "provincia": "Madrid",
+  "comunidad": "Comunidad de Madrid",
+  "lat": 40.482,
+  "lon": -3.364,
+  "web": "https://paradores.es/es/parador-de-alcala-de-henares"
+ },
+ {
+  "id": 86,
+  "nombre": "Parador de Chinchón",
+  "provincia": "Madrid",
+  "comunidad": "Comunidad de Madrid",
+  "lat": 40.14,
+  "lon": -3.422,
+  "web": "https://paradores.es/es/parador-de-chinchon"
+ },
+ {
+  "id": 87,
+  "nombre": "Parador de Lorca",
+  "provincia": "Murcia",
+  "comunidad": "Región de Murcia",
+  "lat": 37.677,
+  "lon": -1.7,
+  "web": "https://paradores.es/es/parador-de-lorca"
+ },
+ {
+  "id": 88,
+  "nombre": "Parador de Olite",
+  "provincia": "Navarra",
+  "comunidad": "Navarra",
+  "lat": 42.481,
+  "lon": -1.651,
+  "web": "https://paradores.es/es/parador-de-olite"
+ },
+ {
+  "id": 89,
+  "nombre": "Parador de Argómaniz",
+  "provincia": "Álava",
+  "comunidad": "País Vasco",
+  "lat": 42.874,
+  "lon": -2.57,
+  "web": "https://paradores.es/es/parador-de-argomaniz"
+ },
+ {
+  "id": 90,
+  "nombre": "Parador de Hondarribia",
+  "provincia": "Gipuzkoa",
+  "comunidad": "País Vasco",
+  "lat": 43.368,
+  "lon": -1.794,
+  "web": "https://paradores.es/es/parador-de-hondarribia"
+ },
+ {
+  "id": 91,
+  "nombre": "Parador de Benicarló",
+  "provincia": "Castellón",
+  "comunidad": "Comunidad Valenciana",
+  "lat": 40.414,
+  "lon": 0.428,
+  "web": "https://paradores.es/es/parador-de-benicarlo"
+ },
+ {
+  "id": 92,
+  "nombre": "Parador de El Saler",
+  "provincia": "Valencia",
+  "comunidad": "Comunidad Valenciana",
+  "lat": 39.376,
+  "lon": -0.322,
+  "web": "https://paradores.es/es/parador-de-el-saler"
+ },
+ {
+  "id": 93,
+  "nombre": "Parador de Jávea",
+  "provincia": "Alicante",
+  "comunidad": "Comunidad Valenciana",
+  "lat": 38.785,
+  "lon": 0.187,
+  "web": "https://paradores.es/es/parador-de-javea"
+ },
+ {
+  "id": 94,
+  "nombre": "Parador de Ceuta",
+  "provincia": "Ceuta",
+  "comunidad": "Ceuta",
+  "lat": 35.888,
+  "lon": -5.315,
+  "web": "https://paradores.es/es/parador-de-ceuta"
+ },
+ {
+  "id": 95,
+  "nombre": "Parador de Melilla",
+  "provincia": "Melilla",
+  "comunidad": "Melilla",
+  "lat": 35.293,
+  "lon": -2.94,
+  "web": "https://paradores.es/es/parador-de-melilla"
+ }
+]
